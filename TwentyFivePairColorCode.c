@@ -3,7 +3,7 @@
 #include"ColorPairVariables.h"
 #include"ColorPairFunctions.h"
 
-int ColorCodeTestAndPrintManual()
+int main()
 {
 
     testNumberToPair(4, WHITE, BROWN);
